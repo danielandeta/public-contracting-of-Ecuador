@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="3101.0032"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1584.003174 -1608.367554 3101.003174 3174.011475"
+     height="3174.0115" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="3.0"
+              d="M -372.217682,-317.007446 C -463.068573,-440.730835 -413.759766,-762.592285 -290.036377,-853.443176"
+              class="id_EC-RUC-0160017400001-87497 id_EC-RUC-0991312080001-3759"
+              stroke-opacity="1.0" stroke="#c5cfe5"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -372.217682,-317.007446 C -529.441650,-16.260773 -1216.397339,199.023376 -1517.144043,41.799469"
+              class="id_EC-RUC-0160017400001-87497 id_EC-RUC-0991339450001-13250"
+              stroke-opacity="1.0" stroke="#ced8ea"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -372.217682,-317.007446 C -330.550781,-42.834869 -679.309326,430.924255 -953.481934,472.591125"
+              class="id_EC-RUC-0160017400001-87497 id_EC-RUC-1790371506001-4638"
+              stroke-opacity="1.0" stroke="#c9d4e7"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -372.217682,-317.007446 C -282.944946,-354.739685 -92.437408,-277.428955 -54.705143,-188.156204"
+              class="id_EC-RUC-0160017400001-87497 id_EC-RUC-1790691810001-4033"
+              stroke-opacity="1.0" stroke="#b7c2dd"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -372.217682,-317.007446 C -370.959229,-407.508209 -233.320343,-541.371643 -142.819580,-540.113159"
+              class="id_EC-RUC-0160017400001-87497 id_EC-RUC-1791222032001-4906"
+              stroke-opacity="1.0" stroke="#bcc6e0"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -372.217682,-317.007446 C -267.735779,-206.006927 -277.513611,117.216721 -388.514160,221.698654"
+              class="id_EC-RUC-0160017400001-87497 id_EC-RUC-1792029678001-209299"
+              stroke-opacity="1.0" stroke="#b3bddb"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -372.217682,-317.007446 C -18.695976,-459.392731 725.164490,-142.688080 867.549744,210.833618"
+              class="id_EC-RUC-0160017400001-87497 id_EC-RUC-1792569397001-598626"
+              stroke-opacity="1.0" stroke="#ced8ea"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -372.217682,-317.007446 C -452.690613,-572.595215 -190.018311,-1076.686157 65.569435,-1157.159058"
+              class="id_EC-RUC-0160017400001-87497 id_EC-RUC-1792704634001-780694"
+              stroke-opacity="1.0" stroke="#c9d4e7"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -337.656586,-1499.542847 C -264.506439,-1586.962769 -23.651159,-1608.367554 63.768833,-1535.217407"
+              class="id_EC-RUC-0660828300001-2561 id_EC-RUC-1792578019001-792287"
+              stroke-opacity="1.0" stroke="#edf8fb"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -200.936035,1195.922485 C 21.382462,1029.501465 604.491699,1113.347656 770.912720,1335.666138"
+              class="id_EC-RUC-0760004760001-48853 id_EC-RUC-1791412559001-7106"
+              stroke-opacity="1.0" stroke="#edf8fb"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 374.032379,-156.057251 C 4.973434,-123.397598 -597.604492,-627.996460 -630.264160,-997.055420"
+              class="id_EC-RUC-0760005140001-141697 id_EC-RUC-0993038210001-900030"
+              stroke-opacity="1.0" stroke="#edf8fb"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1488.429688,414.659454 C -1584.003174,161.360352 -1347.415039,-361.948608 -1094.115845,-457.522186"
+              class="id_EC-RUC-0968503790001-29399 id_EC-RUC-0990000670001-98153"
+              stroke-opacity="1.0" stroke="#e8f3f8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1184.111938,-65.954750 C -1030.276733,-4.371567 -891.898743,318.755951 -953.481934,472.591125"
+              class="id_EC-RUC-0968560160001-2810 id_EC-RUC-1790371506001-4638"
+              stroke-opacity="1.0" stroke="#e4eff6"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -1184.111938,-65.954750 C -982.670898,-316.276398 -305.026794,-389.597260 -54.705143,-188.156204"
+              class="id_EC-RUC-0968560160001-2810 id_EC-RUC-1790691810001-4033"
+              stroke-opacity="1.0" stroke="#d2ddec"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 1278.022949,831.357544 C 1181.146484,1041.295654 720.924377,1210.888184 510.986176,1114.011719"
+              class="id_EC-RUC-1060004680001-14094 id_EC-RUC-1791727649001-9991"
+              stroke-opacity="1.0" stroke="#edf8fb"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 1092.222900,1079.568604 C 1052.665283,887.789307 1280.997803,540.783875 1472.777100,501.226227"
+              class="id_EC-RUC-1160004660001-8458 id_EC-RUC-0190360636001-235446"
+              stroke-opacity="1.0" stroke="#edf8fb"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -282.736298,1527.925903 C -651.925537,1565.643921 -1262.286499,1068.437012 -1300.004517,699.247803"
+              class="id_EC-RUC-1360051970001-89917 id_EC-RUC-0990289751001-13243"
+              stroke-opacity="1.0" stroke="#edf8fb"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 625.815125,-436.967896 C 487.374878,-127.260910 -184.845947,129.639191 -494.552948,-8.801066"
+              class="id_EC-RUC-1560500670001-15857 id_EC-RUC-0190146677001-11735"
+              stroke-opacity="1.0" stroke="#bcc6e0"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 625.815125,-436.967896 C 351.784546,-233.098938 -365.064697,-338.341370 -568.933655,-612.371948"
+              class="id_EC-RUC-1560500670001-15857 id_EC-RUC-0992283343001-18501"
+              stroke-opacity="1.0" stroke="#d6e1ee"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 625.815125,-436.967896 C 466.677185,-641.134399 534.219971,-1186.090942 738.386475,-1345.228882"
+              class="id_EC-RUC-1560500670001-15857 id_EC-RUC-0992428678001-64015"
+              stroke-opacity="1.0" stroke="#d6e1ee"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 625.815125,-436.967896 C 728.355591,-523.945129 1012.632263,-500.600342 1099.609497,-398.059845"
+              class="id_EC-RUC-1560500670001-15857 id_EC-RUC-1705906491001-12972"
+              stroke-opacity="1.0" stroke="#d6e1ee"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 625.815125,-436.967896 C 540.710327,-570.484192 613.327698,-898.415955 746.843994,-983.520752"
+              class="id_EC-RUC-1560500670001-15857 id_EC-RUC-1791770722001-8759"
+              stroke-opacity="1.0" stroke="#d6e1ee"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 625.815125,-436.967896 C 732.302551,-184.287964 513.013733,354.463013 260.333832,460.950439"
+              class="id_EC-RUC-1560500670001-15857 id_EC-RUC-1791902564001-11306"
+              stroke-opacity="1.0" stroke="#d6e1ee"/>
+        <path fill="none" stroke-width="16.0"
+              d="M 801.257935,-120.679459 C 781.965759,284.456451 145.323685,863.222107 -259.812225,843.929932"
+              class="id_EC-RUC-1560500830001-24750 id_EC-RUC-0990064474001-2205"
+              stroke-opacity="1.0" stroke="#edf8fb"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -891.556274,-732.830139 C -795.374939,-877.256714 -434.462982,-949.624512 -290.036377,-853.443176"
+              class="id_EC-RUC-1768012710001-43246 id_EC-RUC-0991312080001-3759"
+              stroke-opacity="1.0" stroke="#d2ddec"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -891.556274,-732.830139 C -615.251221,-791.265564 -113.140572,-464.461243 -54.705143,-188.156204"
+              class="id_EC-RUC-1768012710001-43246 id_EC-RUC-1790691810001-4033"
+              stroke-opacity="1.0" stroke="#c4cfe4"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -891.556274,-732.830139 C -821.628418,-557.082825 -980.357666,-188.570175 -1156.104858,-118.642326"
+              class="id_EC-RUC-1768012710001-43246 id_EC-RUC-1790972186001-1940"
+              stroke-opacity="1.0" stroke="#d6e1ee"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -891.556274,-732.830139 C -600.042114,-642.532837 -298.216827,-69.815536 -388.514160,221.698654"
+              class="id_EC-RUC-1768012710001-43246 id_EC-RUC-1792029678001-209299"
+              stroke-opacity="1.0" stroke="#c0cbe2"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -891.556274,-732.830139 C -929.001770,-528.190674 -1292.129150,-277.399811 -1496.768555,-314.845306"
+              class="id_EC-RUC-1768012710001-43246 id_ID-1791830105001-2928"
+              stroke-opacity="1.0" stroke="#dbe6f1"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -1385.338013,-646.758789 C -1079.589478,-697.324219 -545.118408,-314.549622 -494.552948,-8.801066"
+              class="id_EC-RUC-1768033550001-29340 id_EC-RUC-0190146677001-11735"
+              stroke-opacity="1.0" stroke="#d2ddec"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 437.389801,766.026733 C 96.035706,797.449707 -463.130005,332.553040 -494.552948,-8.801066"
+              class="id_EC-RUC-1768033980001-52558 id_EC-RUC-0190146677001-11735"
+              stroke-opacity="1.0" stroke="#bcc6e0"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 437.389801,766.026733 C 534.874878,716.790833 754.956238,789.164612 804.192139,886.649658"
+              class="id_EC-RUC-1768033980001-52558 id_EC-RUC-0991439765001-187003"
+              stroke-opacity="1.0" stroke="#d6e1ee"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 437.389801,766.026733 C 512.791138,982.715088 300.860657,1420.849731 84.172287,1496.251099"
+              class="id_EC-RUC-1768033980001-52558 id_EC-RUC-1790642992001-3710"
+              stroke-opacity="1.0" stroke="#d2ddec"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 437.389801,766.026733 C 451.453033,906.259888 262.198120,1137.704468 121.964951,1151.767700"
+              class="id_EC-RUC-1768033980001-52558 id_EC-RUC-1791931483001-10379"
+              stroke-opacity="1.0" stroke="#c9d4e7"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 437.389801,766.026733 C 163.343369,822.341919 -332.198975,495.745056 -388.514160,221.698654"
+              class="id_EC-RUC-1768033980001-52558 id_EC-RUC-1792029678001-209299"
+              stroke-opacity="1.0" stroke="#bcc6e0"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 437.389801,766.026733 C 412.895203,457.365173 839.145569,-42.368996 1147.807129,-66.863579"
+              class="id_EC-RUC-1768033980001-52558 id_ID-1792166551001-253353"
+              stroke-opacity="1.0" stroke="#d2ddec"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -572.663269,1025.880859 C -711.879089,679.481812 -401.104187,-48.940399 -54.705143,-188.156204"
+              class="id_EC-RUC-1768034520001-106745 id_EC-RUC-1790691810001-4033"
+              stroke-opacity="1.0" stroke="#d6e1ee"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -1189.444946,-935.175598 C -901.107361,-1065.488159 -273.132172,-828.450745 -142.819580,-540.113159"
+              class="id_EC-RUC-1768034790001-49010 id_EC-RUC-1791222032001-4906"
+              stroke-opacity="1.0" stroke="#dbe6f1"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 94.452538,-810.949890 C -72.575592,-502.550659 -785.716614,-290.494080 -1094.115845,-457.522186"
+              class="id_EC-RUC-1768034950001-40576 id_EC-RUC-0990000670001-98153"
+              stroke-opacity="1.0" stroke="#d6e1ee"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 94.452538,-810.949890 C 225.881561,-1066.507690 806.361877,-1252.700928 1061.919678,-1121.271973"
+              class="id_EC-RUC-1768034950001-40576 id_EC-RUC-1790984141001-4061"
+              stroke-opacity="1.0" stroke="#dbe6f1"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 94.452538,-810.949890 C 204.388916,-507.826813 -85.391083,111.762276 -388.514160,221.698654"
+              class="id_EC-RUC-1768034950001-40576 id_EC-RUC-1792029678001-209299"
+              stroke-opacity="1.0" stroke="#c0cbe2"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 94.452538,-810.949890 C 187.472717,-448.139343 -217.212860,235.606689 -580.023438,328.626862"
+              class="id_EC-RUC-1768034950001-40576 id_EC-RUC-1792696127001-865566"
+              stroke-opacity="1.0" stroke="#dbe6f1"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 94.452538,-810.949890 C 22.805450,-1003.145264 203.627899,-1398.908936 395.823273,-1470.556030"
+              class="id_EC-RUC-1768034950001-40576 id_ID-1790411605001-45700"
+              stroke-opacity="1.0" stroke="#dbe6f1"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -3.376936,122.579491 C -239.290771,199.319244 -708.271240,-39.441879 -785.010986,-275.355713"
+              class="id_EC-RUC-1768046450001-54651 id_EC-RUC-0190085422001-2884"
+              stroke-opacity="1.0" stroke="#b783bb"/>
+        <path fill="none" stroke-width="9.0"
+              d="M -3.376936,122.579491 C -127.888260,194.538574 -422.593872,115.710251 -494.552948,-8.801066"
+              class="id_EC-RUC-1768046450001-54651 id_EC-RUC-0190146677001-11735"
+              stroke-opacity="1.0" stroke="#9c68ad"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -3.376936,122.579491 C -255.913361,-15.293152 -427.909027,-600.906738 -290.036377,-853.443176"
+              class="id_EC-RUC-1768046450001-54651 id_EC-RUC-0991312080001-3759"
+              stroke-opacity="1.0" stroke="#ae7ab6"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -3.376936,122.579491 C 38.058472,519.615234 -495.341949,1177.321899 -892.377686,1218.757324"
+              class="id_EC-RUC-1768046450001-54651 id_EC-RUC-0991440321001-410505"
+              stroke-opacity="1.0" stroke="#b783bb"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -3.376936,122.579491 C -80.261459,-38.786903 46.461349,-396.163269 207.827744,-473.047791"
+              class="id_EC-RUC-1768046450001-54651 id_EC-RUC-0991445242001-24628"
+              stroke-opacity="1.0" stroke="#b783bb"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -3.376936,122.579491 C -8.959618,338.652527 -341.443146,654.387939 -557.516174,648.805298"
+              class="id_EC-RUC-1768046450001-54651 id_EC-RUC-0992122749001-3372"
+              stroke-opacity="1.0" stroke="#b783bb"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -3.376936,122.579491 C -167.547150,-205.362717 78.110870,-943.531433 406.053070,-1107.701660"
+              class="id_EC-RUC-1768046450001-54651 id_EC-RUC-0992262192001-3754"
+              stroke-opacity="1.0" stroke="#b783bb"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -3.376936,122.579491 C 132.714935,42.000961 457.720551,125.270981 538.299072,261.362854"
+              class="id_EC-RUC-1768046450001-54651 id_EC-RUC-1708223027001-404273"
+              stroke-opacity="1.0" stroke="#b783bb"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -3.376936,122.579491 C 288.867249,379.803986 341.396790,1204.006836 84.172287,1496.251099"
+              class="id_EC-RUC-1768046450001-54651 id_EC-RUC-1790642992001-3710"
+              stroke-opacity="1.0" stroke="#b27fb9"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -3.376936,122.579491 C -75.789719,70.697998 -106.586639,-115.743423 -54.705143,-188.156204"
+              class="id_EC-RUC-1768046450001-54651 id_EC-RUC-1790691810001-4033"
+              stroke-opacity="1.0" stroke="#a06daf"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -3.376936,122.579491 C -282.166870,304.880707 -973.803650,160.147614 -1156.104858,-118.642326"
+              class="id_EC-RUC-1768046450001-54651 id_EC-RUC-1790972186001-1940"
+              stroke-opacity="1.0" stroke="#b27fb9"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -3.376936,122.579491 C -163.804001,17.929493 -247.469574,-379.686127 -142.819580,-540.113159"
+              class="id_EC-RUC-1768046450001-54651 id_EC-RUC-1791222032001-4906"
+              stroke-opacity="1.0" stroke="#a571b1"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -3.376936,122.579491 C 131.347076,493.311401 -222.664764,1251.495117 -593.396667,1386.219238"
+              class="id_EC-RUC-1768046450001-54651 id_EC-RUC-1791752732001-18705"
+              stroke-opacity="1.0" stroke="#b783bb"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -3.376936,122.579491 C 55.499603,-315.371399 800.740662,-883.982910 1238.691528,-825.106384"
+              class="id_EC-RUC-1768046450001-54651 id_EC-RUC-1791877969001-1150"
+              stroke-opacity="1.0" stroke="#b783bb"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -3.376936,122.579491 C 227.529083,303.348755 302.734222,920.861694 121.964951,1151.767700"
+              class="id_EC-RUC-1768046450001-54651 id_EC-RUC-1791931483001-10379"
+              stroke-opacity="1.0" stroke="#a976b4"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -3.376936,122.579491 C 295.579407,12.084610 909.756226,294.776794 1020.251099,593.733154"
+              class="id_EC-RUC-1768046450001-54651 id_EC-RUC-1791973704001-1673"
+              stroke-opacity="1.0" stroke="#b783bb"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -3.376936,122.579491 C -60.580555,219.430771 -291.662872,278.902283 -388.514160,221.698654"
+              class="id_EC-RUC-1768046450001-54651 id_EC-RUC-1792029678001-209299"
+              stroke-opacity="1.0" stroke="#9c68ad"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -3.376936,122.579491 C 209.607605,75.025513 600.415344,323.171356 647.969299,536.155884"
+              class="id_EC-RUC-1768046450001-54651 id_EC-RUC-1792156734001-66192"
+              stroke-opacity="1.0" stroke="#b783bb"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -3.376936,122.579491 C 270.485535,-86.363358 994.693481,11.016068 1203.636353,284.878540"
+              class="id_EC-RUC-1768046450001-54651 id_EC-RUC-1792161088001-79651"
+              stroke-opacity="1.0" stroke="#b783bb"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -3.376936,122.579491 C 349.456665,306.671570 602.568970,1112.060181 418.476868,1464.893677"
+              class="id_EC-RUC-1768046450001-54651 id_EC-RUC-1792513812001-559142"
+              stroke-opacity="1.0" stroke="#b783bb"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -3.376936,122.579491 C 272.930298,-206.108887 1180.423584,-284.680573 1509.111938,-8.373348"
+              class="id_EC-RUC-1768046450001-54651 id_EC-RUC-1792537193001-700111"
+              stroke-opacity="1.0" stroke="#b783bb"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -3.376936,122.579491 C -245.535385,-147.157501 -204.167572,-915.000549 65.569435,-1157.159058"
+              class="id_EC-RUC-1768046450001-54651 id_EC-RUC-1792704634001-780694"
+              stroke-opacity="1.0" stroke="#b27fb9"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -3.376936,122.579491 C 188.971283,-145.545959 879.681702,-259.211792 1147.807129,-66.863579"
+              class="id_EC-RUC-1768046450001-54651 id_ID-1792166551001-253353"
+              stroke-opacity="1.0" stroke="#b27fb9"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -884.292847,801.392029 C -968.383484,561.405396 -734.539551,75.289566 -494.552948,-8.801066"
+              class="id_EC-RUC-1768056410001-20291 id_EC-RUC-0190146677001-11735"
+              stroke-opacity="1.0" stroke="#ced8ea"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -884.292847,801.392029 C -901.075745,586.297607 -603.608582,238.481598 -388.514160,221.698654"
+              class="id_EC-RUC-1768056410001-20291 id_EC-RUC-1792029678001-209299"
+              stroke-opacity="1.0" stroke="#ced8ea"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 462.285645,-745.370117 C 418.231720,-406.688538 -155.871429,35.252838 -494.552948,-8.801066"
+              class="id_EC-RUC-1768161120001-390394 id_EC-RUC-0190146677001-11735"
+              stroke-opacity="1.0" stroke="#c9d4e7"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 462.285645,-745.370117 C 382.315979,-583.297668 19.252861,-460.143494 -142.819580,-540.113159"
+              class="id_EC-RUC-1768161120001-390394 id_EC-RUC-1791222032001-4906"
+              stroke-opacity="1.0" stroke="#d2ddec"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 462.285645,-745.370117 C 694.028687,-900.684937 1274.615356,-786.042725 1429.930176,-554.299683"
+              class="id_EC-RUC-1768161120001-390394 id_EC-RUC-1792390834001-785808"
+              stroke-opacity="1.0" stroke="#e4eff6"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 52.489651,802.498169 C -150.865189,1087.053711 -882.730835,1208.854736 -1167.286377,1005.499939"
+              class="id_EC-RUC-1768181150001-594674 id_EC-RUC-1791929675001-169564"
+              stroke-opacity="1.0" stroke="#e8f3f8"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 52.489651,802.498169 C 136.238617,858.456970 177.923798,1068.018799 121.964951,1151.767700"
+              class="id_EC-RUC-1768181150001-594674 id_EC-RUC-1791931483001-10379"
+              stroke-opacity="1.0" stroke="#dbe6f1"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1155.312744,-188.040955 C -631.895447,-175.534775 134.471130,628.350403 121.964951,1151.767700"
+              class="id_EC-RUC-1768182120001-730708 id_EC-RUC-1791931483001-10379"
+              stroke-opacity="1.0" stroke="#dbe6f1"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -1155.312744,-188.040955 C -1290.635620,-521.790588 -992.995605,-1225.399170 -659.245972,-1360.722046"
+              class="id_EC-RUC-1768182120001-730708 id_EC-RUC-1791949862001-6255"
+              stroke-opacity="1.0" stroke="#e8f3f8"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -174.954514,495.952118 C -339.824829,458.921143 -531.583862,156.069275 -494.552948,-8.801066"
+              class="id_EC-RUC-1768189800001-868544 id_EC-RUC-0190146677001-11735"
+              stroke-opacity="1.0" stroke="#ced8ea"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -174.954514,495.952118 C -272.517151,483.813354 -400.652924,319.261292 -388.514160,221.698654"
+              class="id_EC-RUC-1768189800001-868544 id_EC-RUC-1792029678001-209299"
+              stroke-opacity="1.0" stroke="#ced8ea"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -964.476501,-1169.171631 C -674.333435,-1207.691406 -181.339264,-830.256226 -142.819580,-540.113159"
+              class="id_EC-RUC-1865000750001-2728 id_EC-RUC-1791222032001-4906"
+              stroke-opacity="1.0" stroke="#dbe6f1"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -269.859375,-1200.672119 C 67.495125,-1329.597900 766.915588,-1016.954773 895.841370,-679.600281"
+              class="id_EC-RUC-2260015300001-537258 id_EC-RUC-1002018420001-300372"
+              stroke-opacity="1.0" stroke="#edf8fb"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 1485.591553,-219.377411 C 1183.776489,94.926193 259.598450,113.658905 -54.705143,-188.156204"
+              class="id_EC-RUC-2360006130001-519694 id_EC-RUC-1790691810001-4033"
+              stroke-opacity="1.0" stroke="#d6e1ee"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#c9d4e7" r="13.0" cx="94.45254"
+                class="id_EC-RUC-1768034950001-40576" cy="-810.9499"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="-1189.445"
+                class="id_EC-RUC-1768034790001-49010" cy="-935.1756"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="-1385.338"
+                class="id_EC-RUC-1768033550001-29340" cy="-646.7588"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="1278.023"
+                class="id_EC-RUC-1060004680001-14094" cy="831.35754"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c9d4e7" r="13.0" cx="-891.5563"
+                class="id_EC-RUC-1768012710001-43246" cy="-732.83014"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="-964.4765"
+                class="id_EC-RUC-1865000750001-2728" cy="-1169.1716"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="-269.85938"
+                class="id_EC-RUC-2260015300001-537258" cy="-1200.6721"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="801.25793"
+                class="id_EC-RUC-1560500830001-24750" cy="-120.67946"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="-282.7363"
+                class="id_EC-RUC-1360051970001-89917" cy="1527.9259"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#810f7c" r="40.0" cx="-3.3769364"
+                class="id_EC-RUC-1768046450001-54651" cy="122.57949"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0cbe2" r="14.5" cx="437.3898"
+                class="id_EC-RUC-1768033980001-52558" cy="766.02673"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#afb9d9" r="17.5" cx="-372.21768"
+                class="id_EC-RUC-0160017400001-87497" cy="-317.00745"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="-572.66327"
+                class="id_EC-RUC-1768034520001-106745" cy="1025.8809"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="1485.5916"
+                class="id_EC-RUC-2360006130001-519694" cy="-219.37741"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dbe6f1" r="10.0" cx="462.28564"
+                class="id_EC-RUC-1768161120001-390394" cy="-745.3701"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e4eff6" r="8.5" cx="-174.95451"
+                class="id_EC-RUC-1768189800001-868544" cy="495.95212"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="1092.2229"
+                class="id_EC-RUC-1160004660001-8458" cy="1079.5686"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="-337.6566"
+                class="id_EC-RUC-0660828300001-2561" cy="-1499.5428"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e4eff6" r="8.5" cx="-884.29285"
+                class="id_EC-RUC-1768056410001-20291" cy="801.392"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0cbe2" r="14.5" cx="625.8151"
+                class="id_EC-RUC-1560500670001-15857" cy="-436.9679"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="-1488.4297"
+                class="id_EC-RUC-0968503790001-29399" cy="414.65945"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="374.03238"
+                class="id_EC-RUC-0760005140001-141697" cy="-156.05725"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="-200.93604"
+                class="id_EC-RUC-0760004760001-48853" cy="1195.9225"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e4eff6" r="8.5" cx="-1184.1119"
+                class="id_EC-RUC-0968560160001-2810" cy="-65.95475"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e4eff6" r="8.5" cx="52.48965"
+                class="id_EC-RUC-1768181150001-594674" cy="802.49817"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e4eff6" r="8.5" cx="-1155.3127"
+                class="id_EC-RUC-1768182120001-730708" cy="-188.04095"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="-259.81223"
+                class="id_EC-RUC-0990064474001-2205" cy="843.92993"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c0cbe2" r="14.5" cx="-54.705143"
+                class="id_EC-RUC-1790691810001-4033" cy="-188.1562"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="770.9127"
+                class="id_EC-RUC-1791412559001-7106" cy="1335.6661"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="510.98618"
+                class="id_EC-RUC-1791727649001-9991" cy="1114.0117"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e4eff6" r="8.5" cx="-1156.1049"
+                class="id_EC-RUC-1790972186001-1940" cy="-118.64233"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="-1300.0045"
+                class="id_EC-RUC-0990289751001-13243" cy="699.2478"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e4eff6" r="8.5" cx="84.17229"
+                class="id_EC-RUC-1790642992001-3710" cy="1496.2511"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="-568.93365"
+                class="id_EC-RUC-0992283343001-18501" cy="-612.37195"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="1429.9302"
+                class="id_EC-RUC-1792390834001-785808" cy="-554.2997"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="406.05307"
+                class="id_EC-RUC-0992262192001-3754" cy="-1107.7017"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b8c2de" r="16.0" cx="-494.55295"
+                class="id_EC-RUC-0190146677001-11735" cy="-8.801066"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#dbe6f1" r="10.0" cx="-290.03638"
+                class="id_EC-RUC-0991312080001-3759" cy="-853.4432"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="738.3865"
+                class="id_EC-RUC-0992428678001-64015" cy="-1345.2289"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="-785.011"
+                class="id_EC-RUC-0190085422001-2884" cy="-275.3557"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="260.33383"
+                class="id_EC-RUC-1791902564001-11306" cy="460.95044"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="395.82327"
+                class="id_ID-1790411605001-45700" cy="-1470.556"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e4eff6" r="8.5" cx="-953.48193"
+                class="id_EC-RUC-1790371506001-4638" cy="472.59113"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#b8c2de" r="16.0" cx="-388.51416"
+                class="id_EC-RUC-1792029678001-209299" cy="221.69865"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#c9d4e7" r="13.0" cx="-142.81958"
+                class="id_EC-RUC-1791222032001-4906" cy="-540.11316"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="-1496.7686"
+                class="id_ID-1791830105001-2928" cy="-314.8453" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e4eff6" r="8.5" cx="-1094.1158"
+                class="id_EC-RUC-0990000670001-98153" cy="-457.5222"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="1061.9197"
+                class="id_EC-RUC-1790984141001-4061" cy="-1121.272"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="1020.2511"
+                class="id_EC-RUC-1791973704001-1673" cy="593.73315"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="867.54974"
+                class="id_EC-RUC-1792569397001-598626" cy="210.83362"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="746.844"
+                class="id_EC-RUC-1791770722001-8759" cy="-983.52075"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="538.2991"
+                class="id_EC-RUC-1708223027001-404273" cy="261.36285"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="1099.6095"
+                class="id_EC-RUC-1705906491001-12972" cy="-398.05984"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="-593.39667"
+                class="id_EC-RUC-1791752732001-18705" cy="1386.2192"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e4eff6" r="8.5" cx="65.569435"
+                class="id_EC-RUC-1792704634001-780694" cy="-1157.159"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="647.9693"
+                class="id_EC-RUC-1792156734001-66192" cy="536.1559"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="1472.7771"
+                class="id_EC-RUC-0190360636001-235446" cy="501.22623"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#d2ddec" r="11.5" cx="121.96495"
+                class="id_EC-RUC-1791931483001-10379" cy="1151.7677"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="418.47687"
+                class="id_EC-RUC-1792513812001-559142" cy="1464.8937"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="-1517.144"
+                class="id_EC-RUC-0991339450001-13250" cy="41.79947"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="63.768833"
+                class="id_EC-RUC-1792578019001-792287" cy="-1535.2174"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="1238.6915"
+                class="id_EC-RUC-1791877969001-1150" cy="-825.1064"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="-580.02344"
+                class="id_EC-RUC-1792696127001-865566" cy="328.62686"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="895.8414"
+                class="id_EC-RUC-1002018420001-300372" cy="-679.6003"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="-659.246"
+                class="id_EC-RUC-1791949862001-6255" cy="-1360.722"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="804.19214"
+                class="id_EC-RUC-0991439765001-187003" cy="886.64966"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="-892.3777"
+                class="id_EC-RUC-0991440321001-410505" cy="1218.7573"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="207.82774"
+                class="id_EC-RUC-0991445242001-24628" cy="-473.0478"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#e4eff6" r="8.5" cx="1147.8071"
+                class="id_ID-1792166551001-253353" cy="-66.86358"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="1509.1119"
+                class="id_EC-RUC-1792537193001-700111" cy="-8.373348"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="-557.5162"
+                class="id_EC-RUC-0992122749001-3372" cy="648.8053"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="-1167.2864"
+                class="id_EC-RUC-1791929675001-169564" cy="1005.49994"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="1203.6364"
+                class="id_EC-RUC-1792161088001-79651" cy="284.87854"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#edf8fb" r="7.0" cx="-630.26416"
+                class="id_EC-RUC-0993038210001-900030" cy="-997.0554"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="31" x="94.45254" y="-805.0869" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1768034950001-40576">
+            HOSPITAL PEDIATRICO BACA ORTIZ
+        </text>
+        <text font-size="17" x="-1189.445" y="-930.8924" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1768034790001-49010">
+            Hospital Gíneco Obstétrico Isidro Ayora
+        </text>
+        <text font-size="17" x="-1385.338" y="-643.54364" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1768033550001-29340">
+            HOSPITAL PROVINCIAL GENERAL PABLO ARTURO SUAREZ
+        </text>
+        <text font-size="17" x="1278.023" y="834.5727" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1060004680001-14094">
+            DIRECCION DISTRITAL DE SALUD N 10D01
+        </text>
+        <text font-size="31" x="-891.5563" y="-726.96716" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1768012710001-43246">
+            HOSPITAL DE ESPECIALIDADES FUERZAS ARMADAS NO. 1
+        </text>
+        <text font-size="17" x="-964.4765" y="-1165.9564" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1865000750001-2728">
+            HOSPITAL DOCENTE DE AMBATO
+        </text>
+        <text font-size="17" x="-269.85938" y="-1197.4569" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-2260015300001-537258">
+            DIRECCION DISTRITAL 22D02 ORELLANA - LORETO SALUD
+        </text>
+        <text font-size="17" x="801.25793" y="-116.67433" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1560500830001-24750">
+            DIRECCION DISTRITAL 15D01-ARCHIDONA-CARLOS JULIO AROSEMENA
+            TOLA-TENA-SALUD
+        </text>
+        <text font-size="17" x="-282.7363" y="1531.1411" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1360051970001-89917">
+            IESS HOSPITAL DE CHONE
+        </text>
+        <text font-size="96" x="-3.3769364" y="140.73575" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1768046450001-54651">
+            HOSPITAL DE ESPECIALIDADES CARLOS ANDRADE MARIN
+        </text>
+        <text font-size="35" x="437.3898" y="774.49475" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1768033980001-52558">
+            Hospital Eugenio Espejo
+        </text>
+        <text font-size="42" x="-372.21768" y="-305.1676" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-0160017400001-87497">
+            HOSPITAL DE ESPECIALIDADES JOSÉ CARRASCO ARTEAGA
+        </text>
+        <text font-size="17" x="-572.66327" y="1029.583" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1768034520001-106745">
+            HOSPITAL GENERAL ENRIQUE GARCES
+        </text>
+        <text font-size="17" x="1485.5916" y="-216.16225" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-2360006130001-519694">
+            HOSPITAL GENERAL IESS SANTO DOMINGO
+        </text>
+        <text font-size="24" x="462.28564" y="-740.14355" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1768161120001-390394">
+            HOSPITAL SAN FRANCISCO DE QUITO
+        </text>
+        <text font-size="20" x="-174.95451" y="500.791" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1768189800001-868544">
+            Hospital General del Sur de Quito
+        </text>
+        <text font-size="17" x="1092.2229" y="1082.7838" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1160004660001-8458">
+            HOSPITAL PROVINCIAL GENERAL ISIDRO AYORA
+        </text>
+        <text font-size="17" x="-337.6566" y="-1496.3276" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-0660828300001-2561">
+            HOSPITAL GENERAL RIOBAMBA
+        </text>
+        <text font-size="20" x="-884.29285" y="806.2309" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1768056410001-20291">
+            Hospital Quito No.1 de la Policia Nacional
+        </text>
+        <text font-size="35" x="625.8151" y="-428.72205" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1560500670001-15857">
+            HOSPITAL JOSE MARIA VELASCO IBARRA DE TENA
+        </text>
+        <text font-size="17" x="-1488.4297" y="418.63553" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-0968503790001-29399">
+            HOSPITAL DEL NIÑO FY
+        </text>
+        <text font-size="17" x="374.03238" y="-152.84209" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-0760005140001-141697">
+            HOSPITAL OBSTETRICO&quot;ANGELA LOAYZA DE OLLAGUE&quot;
+        </text>
+        <text font-size="17" x="-200.93604" y="1199.1377" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-0760004760001-48853">
+            HOSPITAL GENERAL TEOFILO DAVILA
+        </text>
+        <text font-size="20" x="-1184.1119" y="-62.172195" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-0968560160001-2810">
+            HOSPITAL DE ESPECIALIDADES - TEODORO MALDONADO CARBO
+        </text>
+        <text font-size="20" x="52.48965" y="806.2807" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1768181150001-594674">
+            HOSPITAL GENERAL DOCENTE DE CALDERON
+        </text>
+        <text font-size="20" x="-1155.3127" y="-183.3323" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1768182120001-730708">
+            HOSPITAL GÍNECO OBSTÉTRICO PEDIÁTRICO DE NUEVA AURORA LUZ ELENA
+            ARISMENDI
+        </text>
+        <text font-size="17" x="-259.81223" y="847.1451" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-0990064474001-2205">
+            SEGUROS SUCRE S.A.
+        </text>
+        <text font-size="35" x="-54.705143" y="-181.53674" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1790691810001-4033">
+            SIMED S. A.
+        </text>
+        <text font-size="17" x="770.9127" y="1338.8813" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1791412559001-7106">
+            MEDILABOR S.A.
+        </text>
+        <text font-size="17" x="510.98618" y="1117.7139" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1791727649001-9991">
+            DISTRIBUIDORA DE REACTIVOS Y EQUIPOS DE LABORATORIO BUISAR CIA.
+            LTDA.
+        </text>
+        <text font-size="20" x="-1156.1049" y="-114.85977" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1790972186001-1940">
+            ECUASURGICAL S.A.
+        </text>
+        <text font-size="17" x="-1300.0045" y="702.46295" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-0990289751001-13243">
+            BIOELECTRONICA BLANCO BLANCOSA S.A.
+        </text>
+        <text font-size="20" x="84.17229" y="1500.0337" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1790642992001-3710">
+            CORPOMEDICA CIA. LTDA.
+        </text>
+        <text font-size="17" x="-568.93365" y="-609.1568" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-0992283343001-18501">
+            PERFECTECH S.A.
+        </text>
+        <text font-size="17" x="1429.9302" y="-551.08453" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1792390834001-785808">
+            SIEMENS-HEALTHCARE CIA LTDA
+        </text>
+        <text font-size="17" x="406.05307" y="-1104.4865" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-0992262192001-3754">
+            LETERAGO DEL ECUADOR S.A
+        </text>
+        <text font-size="38" x="-494.55295" y="-0.5256758" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-0190146677001-11735">
+            ALVAREZ LARREA EQUIPOS MEDICOS ALEM CIA. LTDA.
+        </text>
+        <text font-size="24" x="-290.03638" y="-848.9041" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-0991312080001-3759">
+            FRESENIUS KABI S.A
+        </text>
+        <text font-size="17" x="738.3865" y="-1342.0137" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-0992428678001-64015">
+            HEALTHCORP S.A.
+        </text>
+        <text font-size="17" x="-785.011" y="-271.65356" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-0190085422001-2884">
+            RECOR DENTAL Y QUIMEDIC CIA. LTDA
+        </text>
+        <text font-size="17" x="260.33383" y="464.16562" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1791902564001-11306">
+            TOP MEDICAL ECUADOR S.A.
+        </text>
+        <text font-size="17" x="395.82327" y="-1467.3408" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_ID-1790411605001-45700">
+            SANOFI - AVENTIS DEL ECUADOR S.A.
+        </text>
+        <text font-size="20" x="-953.48193" y="476.9466" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1790371506001-4638">
+            QUIFATEX S.A.
+        </text>
+        <text font-size="38" x="-388.51416" y="228.8855" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1792029678001-209299">
+            MAXIMAMEDICAL CIA. LTDA.
+        </text>
+        <text font-size="31" x="-142.81958" y="-534.2502" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1791222032001-4906">
+            B.BRAUN MEDICAL S.A.
+        </text>
+        <text font-size="17" x="-1496.7686" y="-311.63013" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_ID-1791830105001-2928">
+            NIPRO MEDICAL CORPORATION
+        </text>
+        <text font-size="20" x="-1094.1158" y="-453.73962" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-0990000670001-98153">
+            ABBOTT LABORATORIOS DEL ECUADOR CIA. LTDA.
+        </text>
+        <text font-size="17" x="1061.9197" y="-1118.0568" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1790984141001-4061">
+            INTERMEDICA CIA. LTDA.
+        </text>
+        <text font-size="17" x="1020.2511" y="596.9483" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1791973704001-1673">
+            MEDICINA GLOBAL GLOMEDICAL CIA. LTDA.
+        </text>
+        <text font-size="17" x="867.54974" y="214.04878" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1792569397001-598626">
+            PFIZER PFE CIA.LTDA.
+        </text>
+        <text font-size="17" x="746.844" y="-979.8186" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1791770722001-8759">
+            DT MEDICAL EQUIPOS E INSUMOS MEDICOS S.A.
+        </text>
+        <text font-size="17" x="538.2991" y="265.36798" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1708223027001-404273">
+            ANDRADE LARA JAVIER ROBERTO
+        </text>
+        <text font-size="17" x="1099.6095" y="-393.9468" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1705906491001-12972">
+            Mena Salazar William Rodrigo
+        </text>
+        <text font-size="17" x="-593.39667" y="1389.4344" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1791752732001-18705">
+            MEDICORSA CIA. LTDA.
+        </text>
+        <text font-size="20" x="65.569435" y="-1153.3765" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1792704634001-780694">
+            DIEMPHAR FARMACEUTICA S.A.S.
+        </text>
+        <text font-size="17" x="647.9693" y="539.37103" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1792156734001-66192">
+            RRPGOLDEN INTEGRA IMPORTADORA S.A.
+        </text>
+        <text font-size="17" x="1472.7771" y="505.23135" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-0190360636001-235446">
+            REPRESENTACIONES PEDRO ARANEDA FERRER E HIJOS CIA. LTDA.
+        </text>
+        <text font-size="28" x="121.96495" y="1158.3644" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1791931483001-10379">
+            REPRESENTACIONES MEDICAS JARA FABIAN JARAFABI CIA. LTDA.
+        </text>
+        <text font-size="17" x="418.47687" y="1468.1089" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1792513812001-559142">
+            KRUMED S.A.
+        </text>
+        <text font-size="17" x="-1517.144" y="45.014637" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-0991339450001-13250">
+            BIO-IN S.A. SISTEMAS MEDICOS
+        </text>
+        <text font-size="17" x="63.768833" y="-1531.2123" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1792578019001-792287">
+            JARAVITEX CIA LTDA
+        </text>
+        <text font-size="17" x="1238.6915" y="-821.89124" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1791877969001-1150">
+            PAL FARMA CIA. LTDA
+        </text>
+        <text font-size="17" x="-580.02344" y="331.84204" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1792696127001-865566">
+            SSPG NUTRACEUTICOS Y ALIMENTOS ESPECIALIZADOS PHARMA NUTRITION S.A.
+        </text>
+        <text font-size="17" x="895.8414" y="-676.38513" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1002018420001-300372">
+            GALLEGOS RECALDE PABLO MAURICIO
+        </text>
+        <text font-size="17" x="-659.246" y="-1357.5068" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1791949862001-6255">
+            BANDA VANONI CIA. LTDA.
+        </text>
+        <text font-size="17" x="804.19214" y="889.8648" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-0991439765001-187003">
+            C.G.MIL S.A.
+        </text>
+        <text font-size="17" x="-892.3777" y="1221.9725" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-0991440321001-410505">
+            C.G.MED. S.A.
+        </text>
+        <text font-size="17" x="207.82774" y="-469.8326" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-0991445242001-24628">
+            DIEMPEC CIA. LTDA. DISTRIBUIDORA FARMACEUTICA
+        </text>
+        <text font-size="20" x="1147.8071" y="-63.081024" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_ID-1792166551001-253353">
+            CURE CORENA DARIO FERNANDO
+        </text>
+        <text font-size="17" x="1509.1119" y="-5.1581793" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1792537193001-700111">
+            ENDOVIEWMED CIA. LTDA.
+        </text>
+        <text font-size="17" x="-557.5162" y="652.02045" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-0992122749001-3372">
+            MEDITOP S.A.
+        </text>
+        <text font-size="17" x="-1167.2864" y="1008.7151" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1791929675001-169564">
+            BETAPHARMA S.A.
+        </text>
+        <text font-size="17" x="1203.6364" y="288.09372" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-1792161088001-79651">
+            RUSHMEDICAL CIA. LTDA.
+        </text>
+        <text font-size="17" x="-630.26416" y="-993.8403" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Dialog" class="id_EC-RUC-0993038210001-900030">
+            MAXINSUMO S.A.
+        </text>
+    </g>
+</svg>
